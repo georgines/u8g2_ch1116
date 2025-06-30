@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/georgines/u8g2_ch116.git"
+    "url": "https://github.com/georgines/u8g2_ch1116.git"
   },
   "license": "MIT",
   "frameworks": ["arduino"],
